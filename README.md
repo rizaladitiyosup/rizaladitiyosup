@@ -11,8 +11,8 @@ Data Analyst | Excel • SQL • Python • Power BI | Helping Business Make Bet
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rizaladitiyosup&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=rizaladitiyosup&theme=transparent&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://visitor-badge.laobi.icu/badge?page_id=rizaladitiyosup.visitor-badge/?&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Visitors
+![](https://visitor-badge.laobi.icu/badge?page_id=rizaladitiyosup.visitor-badge/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
