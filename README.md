@@ -1,6 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analyst+in+the+making+%F0%9F%9A%80;Clean+data.+Clear+insights.;Better+decisions.;Rows%2C+columns%2C+and+a+lot+of+coffee+%E2%98%95)](https://git.io/typing-svg)
+
 # 💫 About Me:
 Data Analyst | Excel • SQL • Python • Power BI | Helping Business Make Better Decisions
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analyst+in+the+making+%F0%9F%9A%80;Clean+data.+Clear+insights.;Better+decisions.;Rows%2C+columns%2C+and+a+lot+of+coffee+%E2%98%95)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rizaladitiyosup) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lupacaratiduur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizal-aditiyo-supendi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lupacaratiduur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizaladitiyosupendi@gmail.com) 
